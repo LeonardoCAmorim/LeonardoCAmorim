@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/LeonardoCAmorim">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeonardoCAmorim&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeonardoCAmorim&layout=compact&langs_count=8&theme=blue-green"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LeonardoCAmorim&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeonardoCAmorim&layout=compact&langs_count=8&theme=blue-green"/>
 </div>
 
 <div style="display: inline_block"><br>
