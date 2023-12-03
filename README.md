@@ -1,4 +1,4 @@
-## Olá, eu sou o Leo!
+## Hi, I'm Leo!
 
 <div>
   <a href="https://github.com/LeonardoCAmorim">
